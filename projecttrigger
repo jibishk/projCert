@@ -1,8 +1,3 @@
-to trigger project pipeline
-trigger1 on master for test - Failed due to vsudo entry for jenkins
-trigger2 on master for test - Failed docker: 'build-t' is not a docker command.
-trigger3 on master for test - Failed docker: 'build-t' is not a docker command.
-trigger4 on master for test - Failed docker: 'build-t' is not a docker command.
-trigger5 on master for test - Success
-trigger6 on master for test - SeleniumTest - Failed due to Docker run
-trigger7 on master for test 
+As soon as the developer pushes the updated code on the GIT master branch, a new test server should be provisioned with all the required software
+
+Trigger 1
