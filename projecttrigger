@@ -1,4 +1,5 @@
 to trigger project pipeline
 trigger1 on master for test - Failed due to vsudo entry for jenkins
 trigger2 on master for test - Failed docker: 'build-t' is not a docker command.
-trigger3 on master for test
+trigger3 on master for test - Failed docker: 'build-t' is not a docker command.
+trigger4 on master for test 
