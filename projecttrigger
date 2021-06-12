@@ -3,4 +3,5 @@ trigger1 on master for test - Failed due to vsudo entry for jenkins
 trigger2 on master for test - Failed docker: 'build-t' is not a docker command.
 trigger3 on master for test - Failed docker: 'build-t' is not a docker command.
 trigger4 on master for test - Failed docker: 'build-t' is not a docker command.
-trigger5 on master for test
+trigger5 on master for test - Success
+trigger6 on master for test - SeleniumTest
